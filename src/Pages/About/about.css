@@ -1,0 +1,21 @@
+.jumbotron {
+    background: #212121;
+    opacity: .8;
+    width:100%
+}
+
+img {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    opacity: .9;
+}
+
+p {
+    padding:15px;
+    margin:20px;
+    font-family: "abel";
+    font-size: 1rem;
+    color: white;
+    width: 90%;
+}

@@ -1,0 +1,28 @@
+.container {
+    margin: 20px;
+}
+
+.card {
+    font-family: "quicksand";
+    background-color: #212121;
+    opacity: .85;
+    border: none;
+}
+
+.card-img-top {
+    width: 100%;
+    padding:15px;
+}
+
+.card-deck {
+    padding: 10px;
+}
+
+i {
+    color:white;
+}
+
+a {
+    color: white;
+
+}
